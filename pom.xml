@@ -16,7 +16,7 @@
 		<jsonassert.version>1.5.0</jsonassert.version>
 		<skipUTs>false</skipUTs>
 		<surefire-plugin.version>2.19</surefire-plugin.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.10.3</jackson.version>
 		<junit-jupiter.version>5.0.2</junit-jupiter.version>
 	</properties>
 
